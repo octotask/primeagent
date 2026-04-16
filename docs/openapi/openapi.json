@@ -12772,7 +12772,7 @@
             "type": "string",
             "title": "Password"
           },
-          "optins": {
+          "options": {
             "anyOf": [
               {
                 "additionalProperties": true,
@@ -12782,7 +12782,7 @@
                 "type": "null"
               }
             ],
-            "title": "Optins",
+            "title": "Options",
             "default": {
               "github_starred": false,
               "dialog_dismissed": false,
@@ -12860,7 +12860,7 @@
             ],
             "title": "Last Login At"
           },
-          "optins": {
+          "options": {
             "anyOf": [
               {
                 "additionalProperties": true,
@@ -12870,7 +12870,7 @@
                 "type": "null"
               }
             ],
-            "title": "Optins"
+            "title": "Options"
           }
         },
         "type": "object",
@@ -12955,7 +12955,7 @@
             ],
             "title": "Last Login At"
           },
-          "optins": {
+          "options": {
             "anyOf": [
               {
                 "additionalProperties": true,
@@ -12965,7 +12965,7 @@
                 "type": "null"
               }
             ],
-            "title": "Optins"
+            "title": "Options"
           }
         },
         "type": "object",

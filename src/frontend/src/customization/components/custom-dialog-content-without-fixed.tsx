@@ -10,7 +10,14 @@ export const DialogContentWithouFixed = React.forwardRef<
   }
 >(
   (
-    { className, children, hideTitle = false, closeButtonClassName, ...props },
+    {
+      className,
+      children,
+      hideTitle = false,
+      closeButtonClassName,
+      onOpenAutoFocus,
+      ...props
+    },
     ref,
   ) => {
     return <></>;

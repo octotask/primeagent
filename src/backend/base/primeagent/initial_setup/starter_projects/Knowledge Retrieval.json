@@ -106,7 +106,7 @@
             "legacy": false,
             "lf_version": "1.5.0.post1",
             "metadata": {
-              "code_hash": "3d80f125b734",
+              "code_hash": "5a8a0af314e3",
               "dependencies": {
                 "dependencies": [
                   {
@@ -232,7 +232,7 @@
             "legacy": false,
             "lf_version": "1.5.0.post1",
             "metadata": {
-              "code_hash": "8c87e536cca4",
+              "code_hash": "c9abe3aba950",
               "dependencies": {
                 "dependencies": [
                   {
@@ -511,7 +511,7 @@
             "last_updated": "2025-08-26T16:19:16.681Z",
             "legacy": false,
             "metadata": {
-              "code_hash": "af0a162c3f80",
+              "code_hash": "58154954cbe8",
               "dependencies": {
                 "dependencies": [
                   {
@@ -536,7 +536,7 @@
                   },
                   {
                     "name": "langchain_openai",
-                    "version": "0.3.23"
+                    "version": null
                   },
                   {
                     "name": "langchain_huggingface",
@@ -544,7 +544,7 @@
                   },
                   {
                     "name": "langchain_cohere",
-                    "version": "0.4.6"
+                    "version": null
                   }
                 ],
                 "total_dependencies": 8

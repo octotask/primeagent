@@ -164,7 +164,7 @@ jobs:
           python-version: ${{ matrix.python-version }}
           prune-cache: false
       - name: Run wfx tests
-        run: uv run make wfx_tests
+        run: make wfx_tests
         env:
           DO_NOT_TRACK: true # disable telemetry reporting
 
